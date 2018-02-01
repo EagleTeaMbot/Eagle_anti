@@ -27,6 +27,6 @@ cd Eagle && chmod 777 api && screen ./api
 
 ## Developers
 
-[Eagle Programmer]([Telegram](https://telegram.me/EagleProgrammer))
+[Eagle Programmer] ([Telegram](https://telegram.me/EagleProgrammer))
 
-[Nima]([Telegram](https://telegram.me/NimaN4))
+[Nima] ([Telegram](https://telegram.me/NimaN4))
