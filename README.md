@@ -7,14 +7,14 @@
 ```sh
 # Let's install the bot.
 git clone https://github.com/EagleTeaMbot/Eagle_anti
-cd Eagle && chmod +x installcli && ./installcli install && chmod +x installapi && ./installapi install
+cd Eagle_anti && chmod +x installcli && ./installcli install && chmod +x installapi && ./installapi install
 
 # Login Cli Account
 اتولانچ cli
 
-cd Eagle && chmod 777 cli && screen ./cli
+cd Eagle_anti && chmod 777 cli && screen ./cli
 اتولانچ api
-cd Eagle && chmod 777 api && screen ./api
+cd Eagle_anti && chmod 777 api && screen ./api
 
 
 ```
