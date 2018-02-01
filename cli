@@ -1,0 +1,13 @@
+#!/bin/bash
+COUNTER=1
+while(true) do
+echo "Start Launch ...."
+sleep 0.4
+echo ""
+echo "programmer : @GODILOVEYOUME2"
+sleep 0.4
+echo "Channel: @EagleTeaMbot"
+sleep 0.4
+./installcli
+let COUNTER=COUNTER+1 
+done
